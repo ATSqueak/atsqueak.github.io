@@ -1,2 +1,2 @@
-# atsqueak.github.io
-Welcome to the homepage of ATSqueak
+## Welcome
+Welcome to the homepage of ATSqueak!
