@@ -7,7 +7,7 @@ Welcome to the homepage of ATSqueak!
 ### My fields of expertise
 
 - PhD in Electrical and Electronics Engineering
-- Chartered Engineering
+- Chartered Engineer
 - Python programmer
 - Database expert
 - SQL programmer
