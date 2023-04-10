@@ -1,4 +1,4 @@
-[![GitHub Followers](https://img.shields.io/github/followers/ATSqueak?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
+[![GitHub Followers](https://img.shields.io/github/followers/ATSqueak?label=Follow&style=social)](https://github.com/ATSqueak)
 ![GitHub Stars](https://img.shields.io/github/stars/ATSqueak?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 
 ## Welcome
