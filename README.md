@@ -4,6 +4,15 @@
 ## Welcome
 Welcome to the homepage of ATSqueak!
 
+### My fields of expertise
+
+- PhD in Electrical and Electronics Engineering
+- Chartered Engineering
+- Python programmer
+- Database expert
+- SQL programmer
+- Proficient in UNIX scripting
+
 <!--You can use the [editor on GitHub](https://github.com/SmashedFrenzy16/smashedfrenzy16.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
